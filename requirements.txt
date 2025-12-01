@@ -1,0 +1,19 @@
+# Core dependencies
+pandas
+numpy
+matplotlib
+seaborn
+requests
+jupyter
+
+# Time series & ML libraries
+statsmodels
+scikit-learn
+prophet
+
+# Visualization libraries
+streamlit
+plotly
+
+# Utilities
+python-dateutil

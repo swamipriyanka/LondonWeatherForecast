@@ -1,0 +1,39 @@
+git reset
+```
+
+This removes everything from staging (but doesn't delete files).
+
+### Step 2: Create .gitignore File
+
+Create a file called `.gitignore` in your project root with this content:
+```
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Models (too large for GitHub)
+models/*.pkl
+models/*.h5
