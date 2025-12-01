@@ -195,6 +195,11 @@ model = SARIMAX(
 4. **Daily patterns**: Warmest at 2-3 PM, coldest at 5-6 AM
 5. **Strong negative correlation**: Temperature vs Humidity (-0.62)
 
+## 👤 Author
+
+**Priyanka Swami**
+- GitHub: [@swamipriyanka](https://github.com/swamipriyanka)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/priyanka2998/)
 
 ## 📝 Future Improvements
 
